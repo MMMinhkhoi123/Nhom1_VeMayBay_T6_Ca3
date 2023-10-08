@@ -1,0 +1,52 @@
+.menu {
+    display: flex;
+    border: 1px solid black;
+  }
+  .menu > div {
+    padding: 20px 10px;
+  }
+  .header {
+    padding: 20px;
+    display: flex;
+    border-bottom: 1px solid rgb(241, 241, 241);
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+  }
+  .header > div {
+    padding: 0 10px;
+  }
+  a {
+    font-size: 30px;
+    color: rgb(9, 10, 10);
+  }
+  .logo {
+    font-weight: 800;
+  }
+  .hin {
+    color: white;
+  }
+  .acount_link {
+    padding: 10px 30px;
+    border: none;
+    font-weight: 900;
+  }
+
+
+  .main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("https://wallpapercave.com/wp/wp9087904.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+    filter: brightness(10%);
+  }
+  .content {
+    padding-top: 200px;
+    height: calc(100% - 100px);
+    position: relative !important;
+    z-index: 10;
+  }
