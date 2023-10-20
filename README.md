@@ -1,11 +1,12 @@
 # Nhom1_VeMayBay_T6_Ca3
 THÀNH VIÊN NHÓM:
-Họ vè Tên : Nguyễn Minh Khôi
-![Uploading image.png…]()
+- Nguyễn Minh Khôi(dev)
+- Ngô Đăng Huy (scrum Master)
+- Lê Lưu Gia Huy (dev)
+- Dương Toàn Trung (Product Owner)
 
-![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/118420965/256639b6-cdba-4aa0-b095-3505563a3839)
+
 ĐỀ TÀI : WEB ĐẶT VÉ MÁY BAY
-
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/118420965/256639b6-cdba-4aa0-b095-3505563a3839)
 
 GIỚI THIỆU ĐỀ TẢI
