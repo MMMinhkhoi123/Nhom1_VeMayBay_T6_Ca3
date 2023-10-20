@@ -8,7 +8,7 @@ THÀNH VIÊN NHÓM:
 ĐỀ TÀI : WEB ĐẶT VÉ MÁY BAY
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/118420965/256639b6-cdba-4aa0-b095-3505563a3839)
 
-GIỚI THIỆU ĐỀ TẢI
+GIỚI THIỆU ĐỀ TÀI
 - Đặt vé may bay ngày nay đang trở nên ngày càng phổ biến , vì cơ chế quản lý xử lý cho việc bán vé mà hầu hết các hệ thống vé máy bay được bán trên nền tảng trực tuyến (web, app) , thông qua đó giải quyết hầu như các vấn đề và đảm bảo quyền lợi cho khách hàng.
 
 MỤC TIÊU
