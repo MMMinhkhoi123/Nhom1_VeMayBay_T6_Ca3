@@ -18,7 +18,8 @@ THÔNG TIN CHUNG :
 - Một chuyến bay sẽ bao gồm rất là nhiều thông tin : Một máy bay thực hiện chuyến bay phải đảm bảo các yêu cầu về thông tin thuộc máy bay đó bao gồm số ghế thuộc máy bay, hãng bay..., chuyến bay sẽ được thực hiện trên 1 máy bay cụ thể với các thông tin về thời gian cũng như địa điểm vé bay sẽ kế thừa và tổng hợp các thông tin của chuyến bay tương ứng.
 - Khách hàng tham gia chuyến bay sẽ bao gồm đầy đủ các thông tin cá nhân của bản thân bao gồm: email, phone, passport...Ngoài ra quy trình đặt vé sẽ không yêu cầu khách hàng tạo tài khoản cũng như khách mua vé sẽ 100% nhận được vé điện tử của mình thông qua email đăng ký mua.
 
-![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/c84c00df-6dcc-4c57-98dc-44257d7b327a)
+![Uploading image.png…]()
+
 
 TRIỂN KHAI
 CÔNG NGHỆ 
