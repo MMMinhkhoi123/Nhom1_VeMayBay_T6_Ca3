@@ -1,4 +1,4 @@
-<div id="box">
+
 # Nhom1_VeMayBay_T6_Ca3
 THÀNH VIÊN NHÓM:
 - Nguyễn Minh Khôi(Dev)
@@ -43,8 +43,4 @@ Cảm ơn các bạn đã đọc qua bài mô tả. Bye bye <3 😉😉
 
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/fcab6093-06f5-48c8-857c-246db9c9b103)
 
-</div>
-body {
-  background:black url(http://fc01.deviantart.net/fs71/f/2012/160/b/9/stars_by_paulinemoss-d52un4e.jpg);
-  animation: stars 205s linear alternate;
-}
+
