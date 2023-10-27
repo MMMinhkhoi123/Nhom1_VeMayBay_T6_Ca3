@@ -1,6 +1,7 @@
 
-<h2 style:"color: blue "># Nhom1_VeMayBay_T6_Ca3</h2>
+# Nhom1_VeMayBay_T6_Ca3
 THÀNH VIÊN NHÓM:
+
 - Nguyễn Minh Khôi(Dev)
 - Ngô Đăng Huy (Scrum Master)
 - Lê Lưu Gia Huy (Dev)
