@@ -26,9 +26,12 @@ THÔNG TIN CHUNG :
 TRIỂN KHAI
 CÔNG NGHỆ 
 * FONTEND:
-  - Giao diện chính : vuejs.
-  - Bổ xung: boostrap 5.
-  - Kết nối api: axios.
+  - Giao diện chính : vuejs. ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/3a01a600-884c-4a9f-a595-0df92a3a1c87)
+
+  - Bổ xung: boostrap 5.![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/e48a070b-45a7-441c-ac60-d9d2c3b4b401)
+
+  - Kết nối api: axios.![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/caab0456-d5ef-40ce-a739-79f273210ab6)
+
 * BACKEND:
   - Code server: spring-boot
   - Code kết nối database: spring data, spring jpa
@@ -41,7 +44,7 @@ CÔNG NGHỆ
 -Tổng Kết :  App đặt vé máy bay là một công cụ mạnh mẽ giúp người dùng dễ dàng tổ chức và quản lý hành trình bay của họ. Điều này giúp tạo ra trải nghiệm du lịch thuận tiện hơn và tiết kiệm thời gian.
 
 Cảm ơn các bạn đã đọc qua bài mô tả. Bye bye <3 😉😉
-java: Ngôn ngữ Java
+
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/fcab6093-06f5-48c8-857c-246db9c9b103)
 
 
