@@ -34,7 +34,7 @@ THÔNG TIN CHUNG : 🧘🏻
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/634e7f7c-2742-435c-9e43-115cba00d537)
 
 
-TRIỂN KHAI 🛠
+TRIỂN KHAI 
 CÔNG NGHỆ 👨🏻‍🏫
 * FONTEND:📙
   - Giao diện chính : vuejs. 
