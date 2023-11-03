@@ -1,5 +1,5 @@
-# Hey Everyone!(https://github.com/amandewatnitrr)
-## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+<h3 align="center"> Hi there 👋</h3>
+
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <div>
