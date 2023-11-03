@@ -6,7 +6,11 @@ THÀNH VIÊN NHÓM:
 - Ngô Đăng Huy (Scrum Master)
 - Lê Lưu Gia Huy (Dev)
 - Dương Toàn Trung (Product Owner)
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
 ĐỀ TÀI : WEB ĐẶT VÉ MÁY BAY
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/118420965/256639b6-cdba-4aa0-b095-3505563a3839)
 
@@ -44,6 +48,7 @@ CÔNG NGHỆ
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
