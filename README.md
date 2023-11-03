@@ -1,5 +1,4 @@
 <h3 align="center"> Hi there 👋</h3>
-
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <div>
