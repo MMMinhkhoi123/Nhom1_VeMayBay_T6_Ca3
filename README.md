@@ -1,12 +1,16 @@
-<!-- div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div --><!-- TODO: when it will be possible on GitHub -->
+# Hey Everyone!(https://github.com/amandewatnitrr)
+## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
 
 # Nhom1_VeMayBay_T6_Ca3
 THÀNH VIÊN NHÓM:
-
-- Nguyễn Minh Khôi(Dev)
-- Ngô Đăng Huy (Scrum Master)
-- Lê Lưu Gia Huy (Dev)
-- Dương Toàn Trung (Product Owner)
+- Nguyễn Minh Khôi(Dev)👨🏾‍💻
+- Ngô Đăng Huy (Scrum Master)🧑🏽
+- Lê Lưu Gia Huy (Dev) 👨🏻‍💻
+- Dương Toàn Trung (Product Owner)🕵🏻
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
