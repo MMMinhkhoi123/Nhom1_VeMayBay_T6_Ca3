@@ -26,12 +26,10 @@ THÔNG TIN CHUNG :
 TRIỂN KHAI
 CÔNG NGHỆ 
 * FONTEND:
-  - Giao diện chính : vuejs. ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/3a01a600-884c-4a9f-a595-0df92a3a1c87)
+  - Giao diện chính : vuejs. 
+  - Bổ xung: boostrap 5.
 
-  - Bổ xung: boostrap 5.![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/e48a070b-45a7-441c-ac60-d9d2c3b4b401)
-
-  - Kết nối api: axios.![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/caab0456-d5ef-40ce-a739-79f273210ab6)
-
+  - Kết nối api: axios.
 * BACKEND:
   - Code server: spring-boot
   - Code kết nối database: spring data, spring jpa
