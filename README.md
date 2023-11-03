@@ -51,6 +51,7 @@ CÔNG NGHỆ
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![vuejs](https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)
 <br />
 <br />
 
