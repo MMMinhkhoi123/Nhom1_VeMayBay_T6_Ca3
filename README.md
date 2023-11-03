@@ -61,9 +61,10 @@ Cảm ơn các bạn đã đọc qua bài mô tả. Bye bye <3 😉😉
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:giahuyleluu2306@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:giahuyleluu2306@gamil.com"><img src="https://img.shields.io/badge/-giahuyleluu2306@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:nguyenminhkhoi@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:ngodanghuy@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
 ![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/fcab6093-06f5-48c8-857c-246db9c9b103)
 
 
