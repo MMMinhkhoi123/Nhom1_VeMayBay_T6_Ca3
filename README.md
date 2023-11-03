@@ -59,6 +59,8 @@ CÔNG NGHỆ
 -Tổng Kết :  App đặt vé máy bay là một công cụ mạnh mẽ giúp người dùng dễ dàng tổ chức và quản lý hành trình bay của họ. Điều này giúp tạo ra trải nghiệm du lịch thuận tiện hơn và tiết kiệm thời gian.
 
 Cảm ơn các bạn đã đọc qua bài mô tả. Bye bye <3 😉😉
+  
+![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/fcab6093-06f5-48c8-857c-246db9c9b103)
 
 ##  🤝🏻 &nbsp;Connect with Me
 
@@ -67,7 +69,5 @@ Cảm ơn các bạn đã đọc qua bài mô tả. Bye bye <3 😉😉
 <a href="mailto:nguyenminhkhoi@gmail.com"><img src="https://img.shields.io/badge/-nguyenminhkhoi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:ngodanghuy@gmail.com"><img src="https://img.shields.io/badge/-ngodanghuy@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:duongtoantrung@gmail.com"><img src="https://img.shields.io/badge/-duongtoantrung@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
-![image](https://github.com/MMMinhkhoi123/Nhom1_VeMayBay_T6_Ca3/assets/131114040/fcab6093-06f5-48c8-857c-246db9c9b103)
 
 
